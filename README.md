@@ -53,7 +53,7 @@ Our goal is to teach Lua scripting through interactive lessons, challenges, and 
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/brycemoran)
-- 💻 [Portfolio] -- Update
+- 💻 [Portfolio] -- TBD
 - ✉️ bmor539@wgu.edu
 
 ---
