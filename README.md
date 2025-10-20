@@ -1,6 +1,6 @@
 GitHub Landing Page
 
-# 👋 Hi, I'm Bryce (Tea)
+# 👋 Hi, I'm Bryce 
 
 🚀 **Software Engineer | Lifelong Learner | Creative Problem Solver**
 
@@ -55,7 +55,7 @@ Roblox survival game emphasizing player engagement and monetization loops.
 - 💼 [LinkedIn](#)
 - 🎥 [YouTube](#)
 - 💻 [Portfolio](#)
-- ✉️ bryce@example.com  
+- ✉️ bmor539@wgu.edu
 
 ---
 
