@@ -1,5 +1,3 @@
-GitHub Landing Page
-
 # 👋 Hi, I'm Bryce 
 
 🚀 **Software Engineer | Content Creator | Lifelong Learner**
