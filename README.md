@@ -2,38 +2,35 @@ GitHub Landing Page
 
 # 👋 Hi, I'm Bryce 
 
-🚀 **Software Engineer | Lifelong Learner | Creative Problem Solver**
+🚀 **Software Engineer | Content Creator | Lifelong Learner**
 
-I’m passionate about building tools and experiences that make life easier — from AI-powered automation to interactive games and full-stack web apps. I enjoy combining creativity and logic to design projects that are useful, scalable, and genuinely fun to build.
-
----
-
-## 🧠 About Me
-- 🎓 Junior pursuing a **B.S. in Software Engineering** at Western Governors University  
-- 💼 **Certified Apple Computing Advisor** at Best Buy (Store #229, Indianapolis)  
-- 🧩 Experienced with **React, Next.js, Firebase, Node.js, and OpenAI APIs**  
-- ☁️ **AWS Certified Cloud Practitioner**  
-- 🕹️ Roblox Developer and YouTube Creator with **75K+ followers**  
-- 🧭 Always exploring new technologies and ways to make meaningful impact  
+I’m a Software Engineer who began attending **Western Governors University in 2024**, passionate about creating technology that improves everyday life.  
+As a **content creator with over 75,000 subscribers**, I’m launching a new channel dedicated to teaching **Roblox game development** and building an interactive learning platform to make coding more accessible for aspiring developers.
 
 ---
 
-## 💡 Featured Projects
-### 🧾 [SEO Generator Tool](#)
-Automates YouTube titles, tags, and metadata using OpenAI and Firestore.  
-*Tech:* Node.js, Express, Firestore, OpenAI API
+## 💡 About Me
+- 💻 Building tools that automate and simplify daily tasks  
+- 🎮 Teaching Roblox game development and building interactive learning tools  
+- ☁️ Exploring AI, web development, and real-world applications of emerging tech  
+- ✨ Constantly learning, improving, and sharing what I discover  
 
-### 🏬 [Pantry Manager](#)
-Next.js + Firebase app for tracking pantry inventory with AI-powered recommendations.  
-*Tech:* React, Firebase, OpenAI API, Camera Integration
+---
+### 🎥 My Channels
+- [BwithTea](https://youtube.com/@BwithTea) — Roblox gameplay, creativity, and community (75K+ subscribers)  
+- [TeaDevs]([https://youtube.com/@TeaDevs](https://www.youtube.com/channel/UCG84TNLBTc1e1-i7yf45swQ)) — Teaching Roblox game development and scripting for beginners   
+---
 
-### 🖥️ [Best Buy Product Finder](#)
-Internal tool for sales associates to fetch product data and guide recommendations.  
-*Tech:* Next.js, Best Buy API, GPT Integration
+## 🧩 Featured Projects
 
-### 🎮 [Don’t Get Squished](#)
-Roblox survival game emphasizing player engagement and monetization loops.  
-*Tech:* Lua, Roblox Studio
+### 🧾 [SEO Generator Tool](https://github.com/BwithTea/Title-Generator)
+An AI-powered web app that automates YouTube titles, tags, and metadata generation — turning a time-consuming process into a few clicks.  
+*Tech:* Node.js · Express · Firestore · OpenAI API  
+
+### ⏱️ [ULua Academy](#)
+🚧 *Coming Soon!*  
+**ULua Academy** is an educational platform designed to make learning Roblox development easy and accessible — anytime, anywhere, on any device.  
+Our goal is to teach Lua scripting through interactive lessons, challenges, and projects that inspire creativity and real-world problem-solving.  
 
 ---
 
@@ -44,19 +41,19 @@ Roblox survival game emphasizing player engagement and monetization loops.
 
 ---
 
-## 📈 What I’m Working On
-- Building **AI tools** that extract and organize job data for career tracking  
-- Developing **interactive learning experiences** for new programmers  
-- Creating **Roblox games** that combine simplicity with long-term engagement  
+## 🌱 Current Focus
+- Building a **learning platform** for beginner developers  
+- Creating **educational Roblox games** that teach coding concepts interactively  
+- Expanding **AI-powered productivity tools**  
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](#)
-- 🎥 [YouTube](#)
-- 💻 [Portfolio](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brycemoran)
+- 💻 [Portfolio] -- Update
 - ✉️ bmor539@wgu.edu
 
 ---
 
-⭐ *“Fail. Fix. Repeat.” — the mantra that drives every project I build.*
+⭐ *“Creating tools that make life a little easier — and a lot more fun.”*
+
