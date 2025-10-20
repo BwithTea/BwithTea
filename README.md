@@ -4,8 +4,11 @@ GitHub Landing Page
 
 🚀 **Software Engineer | Content Creator | Lifelong Learner**
 
-I’m a Software Engineer who began attending **Western Governors University in 2024**, passionate about creating technology that improves everyday life.  
-As a **content creator with over 75,000 subscribers**, I’m launching a new channel dedicated to teaching **Roblox game development** and building an interactive learning platform to make coding more accessible for aspiring developers.
+I’m a **Software Engineer** studying at **Western Governors University** since 2024, driven by a passion for building technology that makes everyday life better.  
+As a **content creator with over 75,000 subscribers**, I’ve learned how to blend creativity and problem-solving — and now I’m channeling that into projects that make learning interactive and accessible.  
+
+I’m looking for more opportunities to **grow in a professional setting**, collaborate with **curious, like-minded people**, and continue learning while contributing to **meaningful full-time work** in software development.
+
 
 ---
 
@@ -18,12 +21,12 @@ As a **content creator with over 75,000 subscribers**, I’m launching a new cha
 ---
 ### 🎥 My Channels
 - [BwithTea](https://youtube.com/@BwithTea) — Roblox gameplay, creativity, and community (75K+ subscribers)  
-- [TeaDevs]([https://youtube.com/@TeaDevs](https://www.youtube.com/channel/UCG84TNLBTc1e1-i7yf45swQ)) — Teaching Roblox game development and scripting for beginners   
+- [TeaDevs](https://www.youtube.com/channel/UCG84TNLBTc1e1-i7yf45swQ) — Teaching Roblox game development and scripting for beginners   
 ---
 
 ## 🧩 Featured Projects
 
-### 🧾 [SEO Generator Tool](https://github.com/BwithTea/Title-Generator)
+### 🧾 [SEO Generator](https://github.com/BwithTea/Title-Generator)
 An AI-powered web app that automates YouTube titles, tags, and metadata generation — turning a time-consuming process into a few clicks.  
 *Tech:* Node.js · Express · Firestore · OpenAI API  
 
