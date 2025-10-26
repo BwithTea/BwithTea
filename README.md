@@ -56,5 +56,5 @@ Our goal is to teach Lua scripting through interactive lessons, challenges, and 
 
 ---
 
-⭐ *“Creating tools that make life a little easier — and a lot more fun.”*
+⭐ *“Creating tools that make life a little easier and a lot more fun.”*
 
