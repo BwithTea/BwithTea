@@ -49,10 +49,9 @@ An AI-powered web app that automates YouTube titles, tags, and metadata generati
 
 ---
 
-## 🌱 Current Focus
-- Building a **learning platform** for beginner developers  
-- Creating **educational Roblox games** that teach coding concepts interactively  
-- Expanding **AI-powered productivity tools**  
+## 🎯 Current Focus
+
+I’m focused on expanding my technical toolset and building impactful personal projects that push my skills forward. Right now, that means exploring new technologies, creating useful tools, and continuing to share educational content that helps others learn and grow.
 
 ---
 
