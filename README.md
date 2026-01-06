@@ -3,6 +3,7 @@
 🚀 **Software Engineer | Content Creator | Lifelong Learner**
 
 I’m a **Software Engineer** studying at **Western Governors University** since 2024, driven by a passion for building technology that makes everyday life better.  
+
 As a **content creator with over 75,000 subscribers**, I’ve learned to blend creativity with problem‑solving — skills that translate directly into building clear, user‑focused solutions.
 
 Along the way, I’ve developed the core abilities that matter in any professional environment:  
