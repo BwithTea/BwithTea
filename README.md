@@ -3,7 +3,15 @@
 🚀 **Software Engineer | Content Creator | Lifelong Learner**
 
 I’m a **Software Engineer** studying at **Western Governors University** since 2024, driven by a passion for building technology that makes everyday life better.  
-As a **content creator with over 75,000 subscribers**, I’ve learned how to blend creativity and problem-solving — and now I’m channeling that into projects that make learning interactive and accessible.  
+As a **content creator with over 75,000 subscribers**, I’ve learned to blend creativity with problem‑solving — skills that translate directly into building clear, user‑focused solutions.
+
+Along the way, I’ve developed the core abilities that matter in any professional environment:  
+- communicating ideas clearly  
+- collaborating effectively across different roles  
+- adapting quickly to new tools and challenges  
+- managing projects with consistency and accountability  
+
+I’m now channeling these strengths into projects that make learning more interactive, accessible, and impactful.
 
 I’m looking for more opportunities to **grow in a professional setting**, collaborate with **curious, like-minded people**, and continue learning while contributing to **meaningful full-time work** in software development.
 
@@ -28,7 +36,7 @@ I’m looking for more opportunities to **grow in a professional setting**, coll
 An AI-powered web app that automates YouTube titles, tags, and metadata generation — turning a time-consuming process into a few clicks.  
 *Tech:* Node.js · Express · Firestore · OpenAI API  
 
-### ⏱️ [ThinkLink](https://github.com/BwithTea/ThinkLink)
+### ⏱️ [ThinkLink](#) 
 **ThinkLink** builds personalized LinkedIn job links that streamline your search and surface the most relevant, up‑to‑date opportunities.
 
 ---
