@@ -12,7 +12,7 @@ I’m looking for more opportunities to **grow in a professional setting**, coll
 
 ## 💡 About Me
 - 💻 Building tools that automate and simplify daily tasks  
-- 🎮 Teaching Roblox game development and building interactive learning tools  
+- 🎮 Teaching Roblox game development and helping aspiring developers get started
 - ☁️ Exploring AI, web development, and real-world applications of emerging tech  
 - ✨ Constantly learning, improving, and sharing what I discover  
 
