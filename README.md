@@ -47,10 +47,18 @@ An AI-powered web app that automates YouTube titles, tags, and metadata generati
 
 ---
 
+## 🚀 Future Projects
+### 🤖 [VisionSort](https://github.com/BwithTea/Inventory_Management)
+**VisionSort** is a prototype project featuring a camera system designed to connect to AI for scanning items. Future plans include live camera feeds on a robot that can automatically sort and place items into designated locations. Built to experiment with AI integration and robotics automation.
+*Tech:*  Python · OpenCV · AI/ML Integration · Robotics APIs
+
+---
+
 ## ⚙️ Tech Stack
 **Languages:**  JavaScript · Python · SQL · Lua · Java  
 **Frameworks:** React · Next.js · Node.js · Firebase  
 **Tools:** Git · Figma · AWS · OpenAI API · Roblox Studio  
+
 
 ---
 
