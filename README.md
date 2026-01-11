@@ -41,7 +41,7 @@ Mocksy is a web based mock interview application focused on helping users practi
 An AI-powered web app that automates YouTube titles, tags, and metadata generation — turning a time-consuming process into a few clicks.  
 *Tech:* Node.js · Express · Firestore · OpenAI API  
 
-### ⏱️ [ThinkLink](#) 
+### ⏱️ [ThinkLink](https://github.com/BwithTea/ThinkLink) 
 **ThinkLink** builds personalized LinkedIn job links that streamline your search and surface the most relevant, up‑to‑date opportunities.
 *Tech:* React
 
