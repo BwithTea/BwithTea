@@ -48,7 +48,7 @@ An AI-powered web app that automates YouTube titles, tags, and metadata generati
 ---
 
 ## ⚙️ Tech Stack
-**Languages:** Python · JavaScript · SQL · Lua · Java  
+**Languages:**  JavaScript · Python · SQL · Lua · Java  
 **Frameworks:** React · Next.js · Node.js · Firebase  
 **Tools:** Git · Figma · AWS · OpenAI API · Roblox Studio  
 
