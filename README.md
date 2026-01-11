@@ -33,12 +33,17 @@ I’m looking for more opportunities to **grow in a professional setting**, coll
 
 ## 🧩 Featured Projects
 
+### 🎙️ [Mocksy](https://github.com/BwithTea/Mensetsu)
+Mocksy is a web based mock interview application focused on helping users practice behavioral interview questions through recorded responses.
+*Tech:* React · Node.js · OpenAI API
+
 ### 🧾 [SEO Generator](https://github.com/BwithTea/Title-Generator)
 An AI-powered web app that automates YouTube titles, tags, and metadata generation — turning a time-consuming process into a few clicks.  
 *Tech:* Node.js · Express · Firestore · OpenAI API  
 
 ### ⏱️ [ThinkLink](#) 
 **ThinkLink** builds personalized LinkedIn job links that streamline your search and surface the most relevant, up‑to‑date opportunities.
+*Tech:* React
 
 ---
 
