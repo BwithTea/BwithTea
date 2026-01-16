@@ -28,7 +28,8 @@ I’m looking for more opportunities to **grow in a professional setting**, coll
 ---
 ### 🎥 My Channels
 - [BwithTea](https://youtube.com/@BwithTea) — Roblox gameplay, creativity, and community (75K+ subscribers)  
-- [TeaDevs](https://www.youtube.com/channel/UCG84TNLBTc1e1-i7yf45swQ) — Teaching Roblox game development and scripting for beginners   
+- [TeaDevs](https://www.youtube.com/channel/UCG84TNLBTc1e1-i7yf45swQ) — Teaching Roblox game development and scripting for beginners
+  
 ---
 
 ## 🧩 Featured Projects
